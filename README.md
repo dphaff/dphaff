@@ -1,1 +1,1 @@
-Practical financial operations projects focused on reconciliation, exception management, validation, auditability and reporting.
+I'm currently building small tools around trading, travel, budgeting, and personal systems.
